@@ -8,13 +8,13 @@
       "locked": {
         "lastModified": 1784746741,
         "narHash": "sha256-j/bAznVrXCftbbcdfZOPyGLVBvItYdXqljbPEQZeiCU=",
-        "owner": "logos-co",
+        "owner": "3esmit",
         "repo": "logos-accounts-module",
         "rev": "4fd4cb0be3d281b4a9b3303f892b2b265edb2a62",
         "type": "github"
       },
       "original": {
-        "owner": "logos-co",
+        "owner": "3esmit",
         "repo": "logos-accounts-module",
         "type": "github"
       }
