@@ -3,7 +3,7 @@
 
   inputs = {
     logos-module-builder.url = "github:logos-co/logos-module-builder";
-    accounts_module.url = "github:logos-co/logos-accounts-module";
+    accounts_module.url = "github:3esmit/logos-accounts-module";
   };
 
   outputs = inputs@{ logos-module-builder, ... }:
